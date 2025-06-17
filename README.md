@@ -25,9 +25,10 @@ Queried the Superstore dataset using SQL to analyze product categories, item pri
 
 Building data projects to practice SQL and Tableau.
 
-0Learning Python for data analysis.
+Learning Python for data analysis.
 
 Improving my data storytelling skills.
+
 ---
 ## :mailbox: Let’s Connect 
 [LinkedIn](https://www.linkedin.com/in/starrbowen
